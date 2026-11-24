@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../SistemaHSAApi.Business/SistemaHSAApi.Business.csproj" />
+  <Project Path="../SistemaHSAApi.Data/SistemaHSAApi.Data.csproj" />
+  <Project Path="SistemaHSA.csproj" />
+</Solution>
